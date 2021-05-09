@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm bobo.</h2>
 
-- 🛠 I’m currently working on **A Platform for DevOps in HangZhou**
+- 🛠 I’m currently working on **A Platform for SaaS in HangZhou**
 - 🚀 I’m currently learning **Vite and Browser Extension**
 - 💬 Ask me about **React, TypeScript and Node**
 - 😃 Moreover: I'm always looking for something to do
