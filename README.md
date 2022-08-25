@@ -1,6 +1,7 @@
 ## Hi, I'm Mengbo Ji 👨‍💻‍
 
 <img src="https://github-readme-stats.vercel.app/api?username=jimengbo&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
+<img align="left" width="460" src="https://github-readme-stats.vercel.app/api?username=mengbo-ji&custom_title=Yuns's Github Stats&theme=graywhite&hide_border=true&disable_animations=true"/> <img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengbo-ji&layout=compact&theme=graywhite&hide_border=true"/>
 
 I'm working in [同盾科技](https://www.tongdun.cn/?r=pp), living in HangZhou.
 
