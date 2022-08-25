@@ -1,10 +1,15 @@
-<h2 align="center">👋 Hello! I'm bobo.</h2>
+## Hi, I'm Mengbo Ji 👨‍💻‍
 
-- 🛠 I’m currently working on **A Platform for SaaS in HangZhou**
-- 🚀 I’m currently learning **Vite and Browser Extension**
-- 💬 Ask me about **React, TypeScript and Node**
-- 😃 Moreover: I'm always looking for something to do
+<img src="https://github-readme-stats.vercel.app/api?username=jimengbo&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true" />
 
-<p>
-<img align="left" width="460" src="https://github-readme-stats.vercel.app/api?username=mengbo-ji&custom_title=Yuns's Github Stats&theme=graywhite&hide_border=true&disable_animations=true"/> <img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mengbo-ji&layout=compact&theme=graywhite&hide_border=true"/>
-</p>
+I'm working in [Bytedance Inc.](https://github.com/bytedance), living in Shanghai.
+
+## This is me
+
+- 擅长 React 技术栈，推崇 TypeScript。
+
+- 喜欢有意思、有挑战的工作，共同探索不一样的解决方案。
+
+- 喜欢和简单的人一起工作，我们只有一个目标 —— 把产品做得更好。
+
+- "用自己的一点点努力去改变世界" 是我的梦想 ~~
